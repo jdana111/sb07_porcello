@@ -1,14 +1,9 @@
 import "./App.css";
-import Home from "./Home";
-import About from "./About";
-import Contact from "./Contact";
 
 function App() {
   return (
     <div>
-      <Home />
-      <About />
-      <Contact />
+      <h1>Home</h1>
     </div>
   );
 }
