@@ -6,6 +6,8 @@ function App() {
     <div>
       <nav>
         <Link to="/about">About</Link>
+        <div></div>
+        <Link to="/contact">Contact</Link>
       </nav>
       <h1>Home</h1>
     </div>
